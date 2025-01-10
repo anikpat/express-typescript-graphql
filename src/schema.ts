@@ -1,4 +1,4 @@
-import { getDownloadLink } from "./service/revenue-report";
+import { getDownloadLink } from "./service/report";
 
 
 export const typeDefs = `
